@@ -1,3 +1,3 @@
 # Games For Potatoes
 
-Games designed specifically to run as quickly as possibly, with maximal battery efficiency.
+A set of easy console based games designed to maximize speed and battery efficiency.
